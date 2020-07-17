@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo tranquilpeak theme</title>
-    <link>https://example.org/categories/</link>
+    <link>https://sakashushu.github.io/categories/</link>
     <description>Recent content in Categories on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>Ja-jp</language>
     <lastBuildDate>Thu, 16 Jul 2020 23:12:23 +0900</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sakashushu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>category</title>
-      <link>https://example.org/categories/category/</link>
+      <link>https://sakashushu.github.io/categories/category/</link>
       <pubDate>Thu, 16 Jul 2020 23:12:23 +0900</pubDate>
       
-      <guid>https://example.org/categories/category/</guid>
+      <guid>https://sakashushu.github.io/categories/category/</guid>
       <description></description>
     </item>
     
     <item>
       <title>subcategory</title>
-      <link>https://example.org/categories/subcategory/</link>
+      <link>https://sakashushu.github.io/categories/subcategory/</link>
       <pubDate>Thu, 16 Jul 2020 23:12:23 +0900</pubDate>
       
-      <guid>https://example.org/categories/subcategory/</guid>
+      <guid>https://sakashushu.github.io/categories/subcategory/</guid>
       <description></description>
     </item>
     
