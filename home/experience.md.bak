@@ -1,0 +1,105 @@
++++
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
+
+title = "Experience"
+subtitle = ""
+
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+#[[experience]]
+#  title = "CEO"
+#  company = "GenCoin"
+#  company_url = ""
+#  location = "California"
+#  date_start = "2017-01-01"
+#  date_end = ""
+#  description = """
+#  Responsibilities include:
+#  
+#  * Analysing
+#  * Modelling
+#  * Deploying
+#  """
+#
+#[[experience]]
+#  title = "Professor"
+#  company = "University X"
+#  company_url = ""
+#  location = "California"
+#  date_start = "2016-01-01"
+#  date_end = "2016-12-31"
+#  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "なるべくお金を使わない生活"
+  company = "坂元家"
+  company_url = ""
+  location = "巨田地区"
+  date_start = "2016-10-30"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
+
+[[experience]]
+  title = "実家の衣料品店勤務"
+  company = "有限会社サカモト（通称：サカモト衣料品店）"
+  company_url = ""
+  location = "宮崎県小林市野尻町"
+  date_start = "2011-04-28"
+  date_end = "2015-10-25"
+  description = "父が営む“サカモト衣料品店”の店員として勤務。勤務時間8時間の内の半分（4時間）はWebアプリ開発に当てていた。"
+
+[[experience]]
+  title = "IT土方"
+  company = "いわゆるブラックIT企業"
+  company_url = ""
+  location = "東京都"
+  date_start = "2004-05-07"
+  date_end = "2011-03-31"
+  description = "31歳で未経験からプログラマとして勤務。仕事自体が滅茶苦茶ブラックできつかった挙句、リーマンショック以後はIT業界全体で仕事が激減。最後の数ヶ月は2社渡り歩いたが、結局ギブアップして故郷の宮崎に帰る決断をした。"
+
+[[experience]]
+  title = "派遣社員（電話テクサポ（クレーム対応）～PC運用系雑用）"
+  company = "テクサポ系子会社～デジタル放送系子会社"
+  company_url = ""
+  location = "東京都"
+  date_start = "2002-05-01"
+  date_end = "2004-03-31"
+  description = "27歳で憧れの東京に引っ越し、業務未経験からパソコンを使った仕事がしたくてテクサポ業務に就いたがタダのクレーム対応。会社を移り、双方向デジタル放送の番組の運用の業務に就いたが、これもタダの雑用だった。"
+
+[[experience]]
+  title = "派遣社員（エアバッグの試作）"
+  company = "エアバッグ会社（外資系）"
+  company_url = ""
+  location = "茨城県"
+  date_start = "2000-02-01"
+  date_end = "2002-03-31"
+  description = "今までやっていたアルバイトに比べて時給も高く、安定しているように思えて派遣会社に登録し、エアバッグ会社に勤務したが、試作業務という名の雑用だった。"
+
+[[experience]]
+  title = "飛び込み営業のアルバイト"
+  company = "個人代理店（東京電話）"
+  company_url = ""
+  location = "茨城県"
+  date_start = "1998-09-01"
+  date_end = "1999-09-30"
+  description = "当時流行っていた「電話の頭に“00**”を付けるだけで安くなる」中継電話サービスの1つ、東京電話の飛び込みの営業。1件取れると千円という完全歩合制。学生をメインのターゲットとしてアパートを回ったが、ひと月の給与が10万に届くことはほぼ無かった。"
+
++++
