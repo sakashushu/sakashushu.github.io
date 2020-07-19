@@ -4,51 +4,92 @@
   
   <url>
     <loc>https://sakashushu.github.io/categories/</loc>
-    <lastmod>2020-07-16T23:12:23+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sakashushu.github.io/categories/category/</loc>
-    <lastmod>2020-07-16T23:12:23+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sakashushu.github.io/2020/07/hogehoge/</loc>
-    <lastmod>2020-07-16T23:12:23+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sakashushu.github.io/</loc>
-    <lastmod>2020-07-16T23:12:23+09:00</lastmod>
+    <lastmod>2020-07-16T16:27:30+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://sakashushu.github.io/post/</loc>
-    <lastmod>2020-07-16T23:12:23+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sakashushu.github.io/categories/subcategory/</loc>
-    <lastmod>2020-07-16T23:12:23+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sakashushu.github.io/tags/tag1/</loc>
-    <lastmod>2020-07-16T23:12:23+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sakashushu.github.io/tags/tag2/</loc>
-    <lastmod>2020-07-16T23:12:23+09:00</lastmod>
+    <lastmod>2020-07-16T16:27:30+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://sakashushu.github.io/tags/</loc>
-    <lastmod>2020-07-16T23:12:23+09:00</lastmod>
+    <lastmod>2020-07-16T16:27:30+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sakashushu.github.io/archives/</loc>
+    <loc>https://sakashushu.github.io/tag/%E3%81%AA%E3%82%8B%E3%81%B8%E3%81%8F%E3%81%8A%E9%87%91%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2020-07-16T16:27:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/category/%E3%81%AA%E3%82%8B%E3%81%B8%E3%81%8F%E3%81%8A%E9%87%91%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2020-07-16T16:27:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/</loc>
+    <lastmod>2020-07-16T16:27:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/tag/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%9B%E3%82%BF%E3%83%8B%E3%82%B7/</loc>
+    <lastmod>2020-07-16T16:27:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/post/20200716_1627/</loc>
+    <lastmod>2020-07-16T16:27:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/tag/%E7%94%B0%E3%82%93%E3%81%BB/</loc>
+    <lastmod>2020-07-16T16:27:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/tag/%E7%94%B0%E3%82%93%E3%81%BB%E4%BD%9C%E6%A5%AD/</loc>
+    <lastmod>2020-07-16T16:27:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/tag/%E8%BE%B2%E7%9A%84%E6%9A%AE%E3%82%89%E3%81%97/</loc>
+    <lastmod>2020-07-16T16:27:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/category/%E8%BE%B2%E7%9A%84%E6%9A%AE%E3%82%89%E3%81%97/</loc>
+    <lastmod>2020-07-16T16:27:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sakashushu.github.io/author/%E5%9D%82%E5%85%83-%E4%BF%AE%E4%B8%80%E3%82%B7%E3%83%A5%E3%82%A6/</loc>
   </url>
   
 </urlset>

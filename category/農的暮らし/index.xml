@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>シュウのサイト</title>
-    <link>https://sakashushu.github.io/</link>
-      <atom:link href="https://sakashushu.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>シュウのサイト</description>
+    <title>農的暮らし | シュウのサイト</title>
+    <link>https://sakashushu.github.io/category/%E8%BE%B2%E7%9A%84%E6%9A%AE%E3%82%89%E3%81%97/</link>
+      <atom:link href="https://sakashushu.github.io/category/%E8%BE%B2%E7%9A%84%E6%9A%AE%E3%82%89%E3%81%97/index.xml" rel="self" type="application/rss+xml" />
+    <description>農的暮らし</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>sakashushu@gmail.com</copyright><lastBuildDate>Thu, 16 Jul 2020 16:27:30 +0900</lastBuildDate>
     <image>
       <url>https://sakashushu.github.io/images/icon_huf2e018c51e55bafbbc3e61bc8eff8b0a_7350_512x512_fill_lanczos_center_2.png</url>
-      <title>シュウのサイト</title>
-      <link>https://sakashushu.github.io/</link>
+      <title>農的暮らし</title>
+      <link>https://sakashushu.github.io/category/%E8%BE%B2%E7%9A%84%E6%9A%AE%E3%82%89%E3%81%97/</link>
     </image>
     
     <item>
@@ -61,24 +61,6 @@
 で、写真はさっき、排水路登りの終点にいらしたジャンボさん。&lt;br&gt;
 写真では分かり辛いけど、10匹防ぎました！&lt;br&gt;
 早く、補植した子（稲）たちも活着しないかな〜(^_^ゞ&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>個人情報非保護方針</title>
-      <link>https://sakashushu.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://sakashushu.github.io/privacy/</guid>
-      <description>&lt;p&gt;個人情報は保護しません。“個人情報保護”って言葉が出始めてから良くなったことなんて一つも無い。それを利用して設ける人は増えたかもしれないけど。少なくともボクは自分の個人情報をさらけ出すことはしても隠しはしない。この文章を読んでも何も感じない人は、何も言わずに踵を返して下さい。もし心から理解できた時には、改めて扉をノックして下さい。歓迎します。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>利用規約</title>
-      <link>https://sakashushu.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://sakashushu.github.io/terms/</guid>
-      <description>&lt;p&gt;“利用規約”なんてもので何かを防げるとは思っていません。信頼で全ては成り立つと思っています。だから「何をしてもいい」とあなたが思うなら、止めるすべはボクにはありませんが、それ相応の反応はするかもしれませんし、完無視する可能性もありますので、あらかじめご了承ください。&lt;/p&gt;
 </description>
     </item>
     
