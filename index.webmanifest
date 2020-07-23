@@ -2,8 +2,8 @@
   "name": "シュウのサイト",
   "short_name": "シュウのサイト",
   "lang": "ja",
-  "theme_color": "#795548",
-  "background_color": "#795548",
+  "theme_color": "#4caf50",
+  "background_color": "#4caf50",
   "icons": [{
     "src": "/images/icon_huf2e018c51e55bafbbc3e61bc8eff8b0a_7350_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
