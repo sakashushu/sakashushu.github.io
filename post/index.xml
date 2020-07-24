@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | シュウのサイト</title>
+    <title>投稿 | シュウのサイト</title>
     <link>https://sakashushu.github.io/post/</link>
       <atom:link href="https://sakashushu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <description>投稿</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>sakashushu@gmail.com</copyright><lastBuildDate>Thu, 23 Jul 2020 11:39:30 +0900</lastBuildDate>
     <image>
-      <url>https://sakashushu.github.io/images/icon_huf2e018c51e55bafbbc3e61bc8eff8b0a_7350_512x512_fill_lanczos_center_2.png</url>
-      <title>Posts</title>
+      <url>https://sakashushu.github.io/img/background.jpg</url>
+      <title>投稿</title>
       <link>https://sakashushu.github.io/post/</link>
     </image>
     
