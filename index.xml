@@ -5,12 +5,54 @@
     <link>https://sakashushu.github.io/</link>
       <atom:link href="https://sakashushu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>シュウのサイト</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>sakashushu@gmail.com</copyright><lastBuildDate>Thu, 23 Jul 2020 11:39:30 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>sakashushu@gmail.com</copyright><lastBuildDate>Fri, 24 Jul 2020 21:00:30 +0900</lastBuildDate>
     <image>
       <url>https://sakashushu.github.io/images/icon_huf2e018c51e55bafbbc3e61bc8eff8b0a_7350_512x512_fill_lanczos_center_2.png</url>
       <title>シュウのサイト</title>
       <link>https://sakashushu.github.io/</link>
     </image>
+    
+    <item>
+      <title>このサイトを立ち上げた経緯</title>
+      <link>https://sakashushu.github.io/post/20200724_2100/</link>
+      <pubDate>Fri, 24 Jul 2020 21:00:30 +0900</pubDate>
+      <guid>https://sakashushu.github.io/post/20200724_2100/</guid>
+      <description>&lt;p&gt;ちょっと前から、自分の履歴とか、考え方を残したい欲求（
+&lt;a href=&#34;.#*1&#34;&gt;*1&lt;/a&gt;）が湧く。&lt;br&gt;
+元々ボクはそういうタイプで、この欲求が湧くのなんて、人生で何度目なんだってぐらい（笑）&lt;br&gt;
+　&lt;br&gt;
+もちろん普段からSNS（
+&lt;a href=&#34;https://www.instagram.com/sakashushu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;インスタ&lt;/a&gt;とか
+&lt;a href=&#34;https://www.facebook.com/sakashushu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook&lt;/a&gt;）に投稿して、履歴とか考え方を残しているのは、皆さんもよくご存知の通りなんだけど。&lt;br&gt;
+何か、何でか分かんないけど、SNSって、書いたモノが埋もれていくような感じがあって・・・。&lt;br&gt;
+　&lt;br&gt;
+ってな訳で、久々に #プログラマー 的な動きをして、なるべく安定して長期的に、でもお金を使わずに（笑）、自分のサイトを立ち上げる方法を調べてみた。&lt;br&gt;
+最近は、Wordpressに取って代わるものとして、 #静的サイトジェネレーター （Static Site Generator。略して #SSG ）ってのが流行っているらしいすね。&lt;br&gt;
+　&lt;br&gt;
+今回はそのSSGの1つ、 #Hugo ってのを使って、無料の #
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Pages&lt;/a&gt;（
+&lt;a href=&#34;.#*2&#34;&gt;*2&lt;/a&gt;）で、自分のサイトを立ち上げてみた。&lt;br&gt;
+　&lt;br&gt;
+「立ち上げてみた」と言っても、まだ今のところは、インスタとFBの最近の投稿と同じものをブログエントリ化して置いてるだけ（笑）&lt;br&gt;
+　&lt;br&gt;
+それがこのサイト、“シュウのサイト”なのです。&lt;br&gt;
+　&lt;br&gt;
+いずれ、自分の年表とか作って、残したいけど、できるかな～？ f(^_^;&lt;br&gt;
+　&lt;br&gt;
+#なるべくお金を使わない生活 #一応元プログラマ&lt;/p&gt;
+&lt;section id=&#34;*1&#34;&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+*1　この欲求はどこから来るのか。もちろん幼稚な自己顕示欲も大きいんだけど、「 #良いことをするのには時間がかかる 」って思っていることも、出どころの1つだと思う。ボクは、世の中はちょっとずつ、良い方向に向かって行ってると思っている。「昔の人は偉かった」とか「今の大人は幼稚になった」なんて言う人もいるけど、ボクはそう思わない。昔の人は、出来ることが少なかったからそれしかやらなかっただけで、成熟した大人が今より多かった訳じゃないと思う。価値観が多様化して、社会も昔より寛容になって、自由に振舞う人が増えつつある。それが、「幼稚な大人が増えた」って風に見える場合もあるだろう。そんな、価値観が多様化して、人類全体が成長していく中では、選択肢も増えていくから、迷うことも多いと思う。そんな中で、誰かの言葉、考え方に触れて、救われることがある。もしかしたら、ボクの言葉も、誰かの心の琴線に触れるかもしれない。そう考えた時に、長期的に見たら（極端な話、ボクが死んだ後でも）、どこかの知らない誰かの目に留まる可能性が高いのは、埋もれていきそうなSNSじゃなくて、Webサイトだろうと、今回は思ったのでした。そしてそれが、ボクが居なくなった後だとしても、誰かの救いになって欲しい。それが、ボクにとっての「良いことをするのには時間がかかる」だったりするのです。そのために、無料でしかも長続きしそうなサービスをひぃこら調べて立ち上げたのでした（笑）  
+&lt;/section&gt;
+&lt;section id=&#34;*2&#34;&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+*2　本来は、コードのバージョン管理システムの &lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; を使ったソフトウェア開発のソースコードをホスティングするサービス
+&lt;/section&gt;
+&lt;br/&gt;
+</description>
+    </item>
     
     <item>
       <title>田んぼ作業20200723</title>
