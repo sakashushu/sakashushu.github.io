@@ -1045,6 +1045,150 @@
     </item>
     
     <item>
+      <title>「Windows10 Tips：OneDriveを完全抹消する」のページが無くなってもいいように引用を保存するためだけのエントリ</title>
+      <link>https://sakashushu.github.io/post/20160918_1645/</link>
+      <pubDate>Sun, 18 Sep 2016 16:45:30 +0900</pubDate>
+      <guid>https://sakashushu.github.io/post/20160918_1645/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sakashushu.github.io/post/20160918_1645/featured_hu471295d6a56382caeef66221f406f75f_6210_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://sakashushu.github.io/post/20160918_1645/featured_hu471295d6a56382caeef66221f406f75f_6210_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;20160918_01&#34; width=&#34;500&#34; height=&#34;500&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+シュウです。&lt;/p&gt;
+&lt;p&gt;普段 Windows10 Home を使ってるんですが、意外とリカバリすることが多くなっています。&lt;/p&gt;
+&lt;p&gt;その度に OneDrive が復活して辟易・・・。&lt;/p&gt;
+&lt;p&gt;毎回 OneDrive を削除するための方法をググってるけど、正直使えるページが少なかったりしまして。&lt;/p&gt;
+&lt;p&gt;ボク的に使えるページは１個しか見つかってなくて、そこも毎回見つけるのに時間くったり。&lt;/p&gt;
+&lt;p&gt;そのページも急に無くならないとは限らないので、無くなってもいいように引用として保存するためだけにエントリとして残します。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;【OneDriveを停止】&lt;br&gt;
+※32bit版/64bit版で共通。&lt;/p&gt;
+&lt;p&gt;デスクトップ画面の左下隅にある 「 スタートボタン 」 を右クリック、&lt;br&gt;
+真ん中らへんの「コマンドプロンプト（管理者）」を左クリックして、コマンドプロンプトを起動する。&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sakashushu.github.io/post/20160918_1645/img02_hu54cb78c71af724934a43a48eb0dd5b94_51259_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://sakashushu.github.io/post/20160918_1645/img02_hu54cb78c71af724934a43a48eb0dd5b94_51259_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;20160918_02&#34; width=&#34;200&#34; height=&#34;672&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;コマンドプロンプト画面に以下のコマンドを入力して（コピペでもＯＫ）enterキーを押す。&lt;/p&gt;
+&lt;p&gt;「taskkill /f /im OneDrive.exe」を入力＋enterキー&lt;/p&gt;
+&lt;p&gt;これでOneDriveは停止しました。&lt;/p&gt;
+&lt;p&gt;引き続きコマンドプロンプトは開いたまま次の作業を行います。&lt;/p&gt;
+&lt;p&gt;　&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;　&lt;/p&gt;
+&lt;p&gt;【OneDriveをアンインストール】&lt;br&gt;
+※32bit版/64bit版でコマンドが違う。&lt;/p&gt;
+&lt;p&gt;コマンドプロンプト画面に以下のコマンドを入力して（コピペでもＯＫ）enterキーを押す。&lt;/p&gt;
+&lt;p&gt;32bit版：&lt;br&gt;
+「%SystemRoot%\System32\OneDriveSetup.exe /uninstall」を入力＋enterキー&lt;/p&gt;
+&lt;p&gt;64bit版：&lt;br&gt;
+「%SystemRoot%\SysWOW64\OneDriveSetup.exe /uninstall」を入力＋enterキー&lt;/p&gt;
+&lt;p&gt;これでOneDriveはアンインストールされました。&lt;/p&gt;
+&lt;p&gt;引き続きコマンドプロンプトは開いたまま次の作業を行います。&lt;/p&gt;
+&lt;p&gt;　&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;　&lt;/p&gt;
+&lt;p&gt;【OneDriveフォルダを削除】&lt;br&gt;
+※32bit版/64bit版で共通。&lt;/p&gt;
+&lt;p&gt;コマンドプロンプト画面に以下のコマンドを入力して（コピペでもＯＫ）enterキーを押す。&lt;br&gt;
+※必ず1行づつ実行すること&lt;/p&gt;
+&lt;p&gt;「rd “%UserProfile%\OneDrive” /Q /S」を入力＋enterキー&lt;br&gt;
+「rd “%LocalAppData%\Microsoft\OneDrive” /Q /S」を入力＋enterキー&lt;br&gt;
+「rd “%ProgramData%\Microsoft OneDrive” /Q /S」を入力＋enterキー&lt;br&gt;
+「rd “C:\OneDriveTemp” /Q /S」を入力＋enterキー&lt;/p&gt;
+&lt;p&gt;これでOneDriveフォルダは削除されました。&lt;/p&gt;
+&lt;p&gt;引き続きコマンドプロンプトは開いたまま次の作業を行います。&lt;/p&gt;
+&lt;p&gt;　&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;　&lt;/p&gt;
+&lt;p&gt;【OneDrive関連レジストリを削除】&lt;br&gt;
+※32bit版/64bit版で共通。&lt;/p&gt;
+&lt;p&gt;コマンドプロンプト画面に以下のコマンドを入力して（コピペでもＯＫ）enterキーを押す。&lt;br&gt;
+※必ず1行づつ実行すること&lt;/p&gt;
+&lt;p&gt;「REG Delete “HKEY_CLASSES_ROOT\CLSID{018D5C66-4533-4307-9B53-224DE2ED1FE6}” /f」を入力＋enterキー&lt;br&gt;
+「REG Delete “HKEY_CLASSES_ROOT\Wow6432Node\CLSID{018D5C66-4533-4307-9B53-224DE2ED1FE6}” /f」を入力＋enterキー&lt;/p&gt;
+&lt;p&gt;　&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;　&lt;/p&gt;
+&lt;p&gt;これでOneDriveの完全抹消は完了です。&lt;/p&gt;
+&lt;p&gt;　&lt;br&gt;
+　&lt;/p&gt;
+&lt;p&gt;via: 
+&lt;a href=&#34;https://clab.tokyo/archives/1389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Windows10 Tips：OneDriveを完全抹消する | カスタム研究所&lt;/a&gt;&lt;br&gt;
+　&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;　&lt;/p&gt;
+&lt;p&gt;完全に引用だけが目的なので、これで終わりです。&lt;/p&gt;
+&lt;p&gt;蛇足ながら、&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;コピペでもＯＫ&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;となっていますが、「“」と「”」は「&amp;quot;」に変更しないとエラーになります。&lt;/p&gt;
+&lt;p&gt;また、ボクの環境では&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;rd &amp;ldquo;%LocalAppData%\Microsoft\OneDrive&amp;rdquo; /Q /S&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;の時に&lt;br&gt;
+「アクセスが拒否されました」&lt;br&gt;
+とエラーが出て、OneDriveフォルダ配下のファイルが消えませんでしたが、再起動したら消えており、以降の手順に進むことができました。&lt;br&gt;
+　&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>42歳。妻子持ちで無職になった経緯を残す</title>
       <link>https://sakashushu.github.io/post/20151025_0330/</link>
       <pubDate>Sun, 25 Oct 2015 03:30:00 +0900</pubDate>
